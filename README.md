@@ -41,6 +41,15 @@ DevDepencies:
 
 ## 1. Setting up Prisma
 
+First, we need a way to initialize prisma isntance so we can all it anywhere in our app. In the main directory create a file `client.ts` and insert the code below in the file:
+
+```
+import { PrismaClient } from "@prisma/client";
+
+const prisma = new PrismaClient();
+
+export default prisma;
+```
   
 
 Start by setting up Prisma in your Next.js project. If you haven’t already, you can do this by running: 
