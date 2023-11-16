@@ -577,6 +577,8 @@ This code contains Jest tests for a Prisma-based application:
 
 These tests are crucial for ensuring the application's functionality and data integrity.
 
+To run these tests, run the command: `npm test`
+
 
 ## Conclusion
 
