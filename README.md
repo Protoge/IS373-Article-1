@@ -32,7 +32,7 @@ Dependencies:
 ``@prisma/client axios concurrently next react react-dom``
 
 DevDepencies:
-`@faker-js/faker @testing-library/jest-dom @testing-library/react @types/node @types/react @types/react-dom autoprefixer eslint eslint-config-next eslint-plugin-jest-dom eslint-plugin-testing-library jest jest-environment-jsdom jest-mock-extended postcss prisma tailwindcss ts-node typescript
+`@types/jest @faker-js/faker @testing-library/jest-dom @testing-library/react @types/node @types/react @types/react-dom autoprefixer eslint eslint-config-next eslint-plugin-jest-dom eslint-plugin-testing-library jest jest-environment-jsdom jest-mock-extended postcss prisma tailwindcss ts-node typescript
 `
     
 
